@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I might be the only person on this planet to dislike chocolate 🍫 😜.
 - 💬 Ask me about ... anything!
 - 📫 How to start a conversation with me: [LinkedIn](https://www.linkedin.com/in/sidharthpatel01/).
-  - _Note: Please add a note expressing that you found me through GitHub._
+  - _Please add a note expressing that you found me through GitHub._
 
 <!-- - 🔭 I’m currently working on Angular -->
 <!-- - 📙 Currently reading: Religious texts to analyze correlation with modern science. -->
