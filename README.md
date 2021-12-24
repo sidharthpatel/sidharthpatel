@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi! Welcome to my GitHub 👋
+### I'm Siddharth! Pleased to meet you 🤝
 
-<!--
-**sidharthpatel/sidharthpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👜 I'm currently attending George Mason University graduating in Spring 2022.
+- 🌱 I’m currently learning **MEAN Stack** along with **AWS Certified Solutions Architect**. Although some may think its an overkill, I am building my portfolio using **Angular** for knowledge purposes.
+- :atom: I'm planning to dedict my near future to learning **SpringBoot**.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I might be the only person on this planet to dislike chocolate 🍫 😜.
+- 💬 Ask me about ... anything!
+- 📫 How to start a conversation with me: [LinkedIn](https://www.linkedin.com/in/sidharthpatel01/).
+  - _Note: Please add a note expressing that you found me through GitHub._
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🔭 I’m currently working on Angular -->
+<!-- - 📙 Currently reading: Religious texts to analyze correlation with modern science. -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
