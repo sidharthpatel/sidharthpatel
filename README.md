@@ -9,8 +9,9 @@
 - 💬 Ask me about ... anything!
 - 📫 How to start a conversation with me: [LinkedIn](https://www.linkedin.com/in/sidharthpatel01/).
   - _Please add a note expressing that you found me through GitHub._
+- 📙 Currently reading ... Nothing 🦊
+
 
 <!-- - 🔭 I’m currently working on Angular -->
-<!-- - 📙 Currently reading: Religious texts to analyze correlation with modern science. -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
