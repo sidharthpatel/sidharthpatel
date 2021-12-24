@@ -3,7 +3,7 @@
 
 - 👜 I'm currently attending George Mason University graduating in Spring 2022.
 - 🌱 I’m currently learning **MEAN Stack** along with **AWS Certified Solutions Architect**. Although some may think its an overkill, I am building my portfolio using **Angular** for knowledge purposes.
-- :atom: I'm planning to dedict my near future to learning **SpringBoot**.
+- :atom: I'm planning to dedicte my near future to learning **SpringBoot**.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I might be the only person on this planet to dislike chocolate 🍫 😜.
 - 💬 Ask me about ... anything!
