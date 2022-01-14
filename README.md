@@ -9,7 +9,7 @@
 - 💬 Ask me about ... anything!
 - 📫 How to start a conversation with me: [LinkedIn](https://www.linkedin.com/in/sidharthpatel01/).
   - _Please add a note expressing that you found me through GitHub._
-- 📙 Currently reading ... Nothing 🦊
+- 📙 Currently reading ... Atomic Habits by James Clear 🦊
 
 
 <!-- - 🔭 I’m currently working on Angular -->
