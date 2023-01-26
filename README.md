@@ -4,7 +4,6 @@
 - 👜 Recently graduted; Currently work at Freddie Mac.
 - 🌱 I’m currently learning **MEAN Stack**. I am always improving my portfolio using **Angular**.
 <!-- - :atom: I'm planning to dedicate my near future to learning. -->
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I dislike chocolate 🍫
 - 💬 Ask me about ... anything!
 - 📫 How to start a conversation with me: [LinkedIn](https://www.linkedin.com/in/sidharthpatel01/).
