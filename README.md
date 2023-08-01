@@ -8,7 +8,7 @@
 - 💬 Ask me about ... anything!
 - 📫 How to start a conversation with me: [LinkedIn](https://www.linkedin.com/in/sidharthpatel01/).
   - _Please add a note expressing that you found me through GitHub._
-- 📙 Currently reading ... _Subtle Art of Not Giving a F**k by Mark Manson_ 🦊
+- 📙 Currently reading ... _Elon Musk by Ashlee Vance_ 🦊
 
 
 <!-- - 🔭 I’m currently working on Angular -->
