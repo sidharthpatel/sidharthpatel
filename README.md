@@ -1,8 +1,8 @@
 ### Hi! Welcome to my GitHub 👋
-### I'm Siddharth! Pleased to meet you 🤝 You can call me Zed if you'd like 😄
+### I'm Siddharth! Pleased to meet you 🤝, but you can call me Zed 😄
 
-- 👜 2022 graduate; Been employed with Freddie Mac since two years.
-- 🌱 I’m currently learning **MEAN Stack**. I am always improving my portfolio using **Angular**.
+- 👜 2022 graduate; Been employed with Freddie Mac since three years.
+- 🌱 I’m currently learning **Machine Learning** at Georgia Tech. I am always improving my portfolio using **React**.
 <!-- - :atom: I'm planning to dedicate my near future to learning. -->
 - ⚡ Fun fact: I dislike chocolate 🍫
 - 💬 Ask me about ... anything!
